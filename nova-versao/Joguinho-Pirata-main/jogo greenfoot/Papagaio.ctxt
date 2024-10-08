@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Papagaio
+comment0.text=\r\n\ Classe\ Papagaio\ que\ representa\ um\ papagaio\ que\ segue\ o\ pirata\r\n\ e\ muda\ de\ imagem\ com\ base\ na\ dire\u00E7\u00E3o\ em\ que\ o\ papagaio\ est\u00E1\ virado.\r\n
+comment1.params=
+comment1.target=Papagaio()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ seguirAtor()
+comment4.params=
+comment4.target=void\ atualizarImagemComBaseNaTecla()
+numComments=5
